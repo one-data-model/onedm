@@ -9,35 +9,39 @@ assignees: ''
 
 # Basic info 
 
-Model: <pull request name in adopter repo>
+Model: 
+[pull request name in adopter repo]
 
-Model-name: <sdf object name>
+Model-name: 
+[sdf object name]
 
-Proposed-name: <sdf object name>
+Proposed-name: 
+[sdf object name]
 
 Description:       
 
 
 Ecosystem:  OCF | LWM2M | BlueTooth | BACnet | CSA
 
-Model-responsible: <
+Model-responsible: 
+[ name of submitter]
 
-email: <of promotor>
+email: [of promotor]
 
-submit-date: <yyyy-mm-dd>
+submit-date: [yyyy-mm-dd]
 
 # Model metadata (filled in by contributor)
 
-namespace: <namespace>
+namespace: [namespace]
 
-version: <commit-hash>
+version: [commit-hash]
 
 # ----------------
 
 # Pre-review analysis (done by review board secretary)
 -[ ] SDF-verification-passed:
 
-- [ ] OneDM-terminology-review-passed
+-[ ] OneDM-terminology-review-passed
 
 Return-to-contributor if any of the above is not passed
 
@@ -58,28 +62,28 @@ opinion: No_objections, Objection
 
 comments: comment
 
-Review_board_decision: <back to contributor w comments/spin up \
-    convergence activity/to community for last call>
+Review_board_decision: [back to contributor w comments/spin up \
+    convergence activity/to community for last call]
 
-Review_board_date: <date>
+Review_board_date: [yyyy-mm-dd]
 
 # ----------------
 
 # Last call
 
-LC_Start_date: <date>
+LC_Start_date: [yyyy-mm-dd]
 
-LC_End_date: <date + 2 weeks>
+LC_End_date: [date + 2 weeks]
 
-LC_objections_raised: <list>
+LC_objections_raised: [list]
 
-LC_Comments: <need some way to feedback comments>
+LC_Comments: [need some way to feedback comments]
 
 # ----------------
 
 # Adoption decision
 
-Review_board_adoption_decision: <tbd>
+Review_board_adoption_decision: [tbd]
 
 Review_board_adoption_decision_date: <date>
 
@@ -87,8 +91,8 @@ Review_board_adoption_decision_date: <date>
 
 # Adoption
 
-Link_to_adopted_model_in_OneDM_repo: <url>
+Link_to_adopted_model_in_OneDM_repo: [url]
 
-Check_here_when_done: <X>
+Check_here_when_done: [X]
 
 # Secretary archives this file in adopted models repo to maintain bit trail
