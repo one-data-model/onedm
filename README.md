@@ -1,3 +1,8 @@
+# CI status
+ CI: [![CI](https://github.com/one-data-model/adoption/actions/workflows/ci.yml/badge.svg
+)](https://github.com/one-data-model/adoption/actions/workflows/ci.yml) — please check the
+build log linked through this badge for CI messages.
+
 # Adoption
 
 This repository will maintain the process forms used in OneDM's
@@ -5,7 +10,7 @@ This repository will maintain the process forms used in OneDM's
 
 [adoption process]: https://github.com/one-data-model/processes/blob/master/adoption.md
 
-A process form can be in one of four states, which correspond to the
+A process form can be in one of following states, which correspond to the
 subdirectories of this repo:
 
 * under-review
