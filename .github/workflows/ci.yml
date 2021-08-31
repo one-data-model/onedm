@@ -16,4 +16,4 @@ jobs:
       - uses: actions/checkout@v2
 
       - name: Run CI script
-        run: ./run.sh
+        run: sh ./run.sh
