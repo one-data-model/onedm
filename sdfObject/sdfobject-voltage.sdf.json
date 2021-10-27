@@ -1,14 +1,14 @@
 {
   "info": {
-    "title": "OMA LwM2M Voltage (Object ID 3316)",
-    "version": "2021-02-11",
-    "copyright": "Copyright (c) 2018-2020 IPSO",
+    "title": "Voltage",
+    "version": "2021-10-27",
+    "copyright": "Copyright (c) 2018-2021 IPSO",
     "license": "https://github.com/one-data-model/oneDM/blob/master/LICENSE"
   },
   "sdfObject": {
     "Voltage": {
       "label": "Voltage",
-      "description": "This IPSO object should be used with voltmeter sensor to report measured voltage between two points.  It also provides resources for minimum and maximum measured values, as well as the minimum and maximum range that can be measured by the sensor. An example measurement unit is volts.",
+      "description": "This object should be used with voltmeter sensor to report measured voltage between two points. It also provides resources for minimum and maximum measured values, as well as the minimum and maximum range that can be measured by the sensor. An example measurement unit is volts.",
       "sdfProperty": {
         "Sensor_Value": {
           "label": "Sensor Value",
